@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Web3Js, ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://dev-rahulbhadoriya.github.io/](https://dev-rahulbhadoriya.github.io/)
-
 - 💬 Ask me about **JavaScript, TypeScript, Android, iOS & GoLang**
 
 - 📫 How to reach me **dev.rahulbhadoriya.com**
