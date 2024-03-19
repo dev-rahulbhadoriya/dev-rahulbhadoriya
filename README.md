@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **[Rahul Singh Bhadoriya](https://www.aboutrahul.in)**
 
-- 📄 Know about my experiences **[LinkedIn](https://www.linkedin.com/in/rahulsinghbhadoriya/)**
-
 - <a href="https://travelersharma.com" target="blank"><img align="center" src="https://github.com/dev-rahulbhadoriya/dev-rahulbhadoriya/assets/43443993/ceae899c-f5e3-4fc0-9560-4f5a03b3e67d" height="20" width="20" /> Sponsored by : [Traveler Sharma](https://travelersharma.com)</a>
 
 ## Connect with me:
