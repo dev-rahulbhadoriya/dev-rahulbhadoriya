@@ -1,6 +1,6 @@
 ## **Hey there!** **👋**
 
-👨‍💻 I'm **Rahul Singh Bhadoriya**, the Senior Full Stack developer at Anaxee, and I'm here to be your coding companion. I specialize in TypeScript, Node.js, React, and the art of design. Picture crafting APIs like building blocks, working with Docker, and exploring the clouds of GCP and Azure. Whether it's the backend rhythm of Node.js or the frontend melody of React, I find joy in turning design ideas into captivating user experiences through code. Ready to kick off this coding adventure with me? 🚀✨
+👨‍💻 I'm **Rahul Singh Bhadoriya**, the Senior Full Stack developer, and I'm here to be your coding companion. I specialize in Nextjs, TypeScript, Node.js, React, and the art of design. Picture crafting APIs like building blocks, working with Docker, and exploring the clouds of GCP and Azure. Whether it's the backend rhythm of Node.js or the frontend melody of Next, I find joy in turning design ideas into captivating user experiences through code. Ready to kick off this coding adventure with me? 🚀✨
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devrahul95&label=Profile%20views&color=0e75b6&style=flat" alt="devrahul95" /> </p>
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/rbhadoria97" target="blank"><img src="https://img.shields.io/twitter/follow/rbhadoria97?logo=twitter&style=for-the-badge" alt="rbhadoria97" /></a> </p>
 
-- 💬 Ask me about **JavaScript, TypeScript, ReactJs, NodeJs, Apis**
+- 💬 Ask me about **Mobil Dev, Web dev**
 
 - 📫 How to reach me **[Rahul Singh Bhadoriya](https://www.aboutrahul.in)**
 
